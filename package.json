@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dom": "^0.0.3",
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "router": "^1.3.8"
+  },
+  "name": "studentsurvey",
+  "version": "1.0.0",
+  "description": "demo student application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
